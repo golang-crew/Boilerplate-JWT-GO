@@ -1,0 +1,17 @@
+{
+    "debug": true,
+    "server": {
+      "port": ":8080"
+    },
+    "database": {
+      "host": "docker.for.mac.localhost",
+      "port": "3306",
+      "user": "test",
+      "pass": "1234",
+      "name": "users"
+    },
+    "token": {
+      "ACCESS_SECRET": "your_access_key_here",
+      "REFRESH_SECRET": "your_refrech_key_here"
+    }
+  }
